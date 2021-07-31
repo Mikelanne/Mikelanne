@@ -11,9 +11,15 @@ I'm a critical-thinker and problem-solver who never backs down from a challenge.
 
 #### Wheel of Time Companion [Demo](https://www.youtube.com/watch?v=E6fsvtIOj-E) | [Frontend](https://github.com/Mikelanne/wheel_of_javascript) | [Backend](https://github.com/Mikelanne/wheel_backend)
 
+🐉 A "spoiler free" companion for fans of Robert Jordan's fantasy series <i>The Wheel of Time</i>. JavaScript frontend and Ruby on Rails API backend.
 
+#### Growth [Demo](https://www.youtube.com/watch?v=WkjkM6A-7eM) | [Frontend](https://github.com/Mikelanne/growth-frontend) | [Backend](https://github.com/Mikelanne/growth-backend)
 
+🌱 An app to help you keep track of the care for all your plants. React/Redux frontend and a Ruby on Rails API backend.
 
+#### What's Cookin' [Demo](https://www.youtube.com/watch?v=VwIh8vUIBps) | [Repo](https://github.com/Mikelanne/WhatsCookin)
+
+🍝 Browse Recipes from around the world and save the ones you like in your own recipe book! Ruby on Rails application.
 
 <!--
 **Mikelanne/Mikelanne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

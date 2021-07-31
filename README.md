@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi 👋 I'm Mikelanne (like the Ninja Turtle 🐢 )
+
+<hr/>
 
 <!--
 **Mikelanne/Mikelanne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

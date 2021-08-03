@@ -27,17 +27,26 @@ I'm currently packing up my life and moving from Florida to New York State! 🌴
 I'm also currently working full time as a customer service representative! :phone: <br/>
 I'm very excited for all the changes happening in my life and I'm ready for my first job as a Web Developer!<br/><br/>
 
-In the meantime, I'm working on an updated version of my Wheel of Time Companion <br>
-This version will have a React/Redux front end with: <br/>
-[] User functionality! <br/>
-[] This will be TOTALLY spoiler free! The user will input all their information and won't be able to see info from anyone else <br/>
-[] Show pages for each Character, Group, and Location! <br/>
-[] MAPS! From the books! <br/>
-[] The ability to edit and add characters, groups, and locations <br/>
-[] Client-Side Routes! <br/>
-[] A NavBar with search capibilites! <br/>
-[] A Ruby on Rails API backend <br/>
+In the meantime, I'm working on an updated version of my Wheel of Time Companion! This version will have a React/Redux frontend with: <br/>
+:ballot_box_with_check: User functionality! <br/>
+:ballot_box_with_check: This will be TOTALLY spoiler free! The user will input all their information and won't be able to see info from anyone else <br/>
+:ballot_box_with_check: Show pages for each Character, Group, and Location! <br/>
+:ballot_box_with_check: MAPS! From the books! <br/>
+:ballot_box_with_check: The ability to edit and add characters, groups, and locations <br/>
+:ballot_box_with_check: Client-Side Routes! <br/>
+:ballot_box_with_check: A NavBar with search capibilites! <br/>
+:ballot_box_with_check: A Ruby on Rails API backend <br/>
 
+The Wheel of Time Companion is a passion project for me. I love the series but I encountered a MAJOR spoiler when I was only on Book 1 out of 14 because I Googled a character to get more information. I can't wait to finish and host this app.
+
+As a long time restaurant employee, I also plan on making a Point of Sale system on my own as well. One thing I've always talked about was how we can improve those systems in restaurants to benefit everyone.
+
+<hr/>
+
+📫  You can reach me at mikelanne.wood@gmail.com <br/>
+:computer: Or check out my [LinkedIn](www.linkedin.com/in/mikelanne-wood)
+
+## :sparkles: Happy coding! :sparkles:
 <!--
 **Mikelanne/Mikelanne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

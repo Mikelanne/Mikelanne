@@ -30,7 +30,7 @@ I'm very excited for all the changes happening in my life and I'm ready for my f
 In the meantime, I'm working on an updated version of my Wheel of Time Companion! This version will have a React/Redux frontend with: <br/>
 :ballot_box_with_check: User functionality! <br/>
 :ballot_box_with_check: This will be TOTALLY spoiler free! The user will input all their information and won't be able to see info from anyone else <br/>
-:ballot_box_with_check: Show pages for each Character, Group, and Location! <br/>
+:ballot_box_with_check: Show pages for each character, group, and location! <br/>
 :ballot_box_with_check: MAPS! From the books! <br/>
 :ballot_box_with_check: The ability to edit and add characters, groups, and locations <br/>
 :ballot_box_with_check: Client-Side Routes! <br/>

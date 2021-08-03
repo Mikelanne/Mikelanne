@@ -21,6 +21,14 @@ I'm a critical-thinker and problem-solver who never backs down from a challenge.
 
 🍝 Browse Recipes from around the world and save the ones you like in your own recipe book! Ruby on Rails application.
 
+<hr/>
+
+I'm currently packing up my life and moving from Florida to New York State! 🌴 -> 🌇  <br/>
+I'm also currently working full time as a customer service representative! :phone: <br/>
+I'm very excited for all the changes happening in my life and I'm ready for my first job as a Web Developer!<br/><br/>
+
+In the meantime, I'm working on an updated version of my Wheel of Time Companion
+
 <!--
 **Mikelanne/Mikelanne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

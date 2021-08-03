@@ -22,7 +22,8 @@ I'm a critical-thinker and problem-solver who never backs down from a challenge.
 🍝 Browse Recipes from around the world and save the ones you like in your own recipe book! Ruby on Rails application.
 
 <hr/>
-### Currently.....
+
+### Currently...
 
 I'm currently packing up my life and moving from Florida to New York State! 🌴 -> 🌇  <br/>
 I'm also currently working full time as a customer service representative! :phone: <br/>

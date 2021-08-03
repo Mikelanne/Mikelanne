@@ -25,7 +25,7 @@ I'm a critical-thinker and problem-solver who never backs down from a challenge.
 
 I'm currently packing up my life and moving from Florida to New York State! 🌴 -> 🌇  <br/>
 I'm also currently working full time as a customer service representative! :phone: <br/>
-I'm very excited for all the changes happening in my life and I'm ready for my first job as a Web Developer!<br/><br/>
+I'm very excited for all the changes happening in my life and I'm ready for my first job as a Web Developer!<br/>
 
 In the meantime, I'm working on an updated version of my Wheel of Time Companion! This version will have a React/Redux frontend with: <br/>
 :ballot_box_with_check: User functionality! <br/>

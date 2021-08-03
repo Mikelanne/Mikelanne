@@ -27,7 +27,16 @@ I'm currently packing up my life and moving from Florida to New York State! 🌴
 I'm also currently working full time as a customer service representative! :phone: <br/>
 I'm very excited for all the changes happening in my life and I'm ready for my first job as a Web Developer!<br/><br/>
 
-In the meantime, I'm working on an updated version of my Wheel of Time Companion
+In the meantime, I'm working on an updated version of my Wheel of Time Companion <br>
+This version will have a React/Redux front end with: <br/>
+[] User functionality! <br/>
+[] This will be TOTALLY spoiler free! The user will input all their information and won't be able to see info from anyone else <br/>
+[] Show pages for each Character, Group, and Location! <br/>
+[] MAPS! From the books! <br/>
+[] The ability to edit and add characters, groups, and locations <br/>
+[] Client-Side Routes! <br/>
+[] A NavBar with search capibilites! <br/>
+[] A Ruby on Rails API backend <br/>
 
 <!--
 **Mikelanne/Mikelanne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

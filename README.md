@@ -29,6 +29,8 @@ I'm currently packing up my life and moving from Florida to New York State! 🌴
 I'm also currently working full time as a customer service representative! :phone: <br/>
 I'm very excited for all the changes happening in my life and I'm ready for my first job as a Web Developer!<br/>
 
+<hr/>
+
 In the meantime, I'm working on an updated version of my Wheel of Time Companion! This version will have a React/Redux frontend with: <br/>
 :ballot_box_with_check: User functionality! <br/>
 :ballot_box_with_check: This will be TOTALLY spoiler free! The user will input all their information and won't be able to see info from anyone else <br/>
@@ -41,12 +43,13 @@ In the meantime, I'm working on an updated version of my Wheel of Time Companion
 
 The Wheel of Time Companion is a passion project for me. I love the series but I encountered a MAJOR spoiler when I was only on Book 1 out of 14 because I Googled a character to get more information. I can't wait to finish and host this app.
 
-As a long time restaurant employee, I also plan on making a Point of Sale system on my own as well. One thing I've always talked about was how we can improve those systems in restaurants to benefit everyone.
-
 <hr/>
 
+As a long time restaurant employee, working as both a host and a server, I have always been passionate about improving POS systems! My dream job would be working on a POS system that benefits all employees: kitchen, host, servers, and managers. With the ability to get manager swipes quicker and easier, better communication between the front of house and back of house, better communication between the reservation system and the host stand for a more streamlined assigning system and finally, a way to process credit card payments all in _one_ system! 
+
 📫  You can reach me at mikelanne.wood@gmail.com <br/>
-:computer: Or check out my [LinkedIn](www.linkedin.com/in/mikelanne-wood)
+:computer: Check out my [LinkedIn](www.linkedin.com/in/mikelanne-wood) <br/>
+:woman_technologist: Read my [blog](www.medium.com/@mikelanne.wood)
 
 ## :sparkles: Happy coding! :sparkles:
 <!--

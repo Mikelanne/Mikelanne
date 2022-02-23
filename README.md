@@ -25,9 +25,7 @@ I'm a critical-thinker and problem-solver who never backs down from a challenge.
 
 ### Currently...
 
-I'm currently packing up my life and moving from Florida to New York State! 🌴 -> 🌇  <br/>
-I'm also currently working full time as a customer service representative! :phone: <br/>
-I'm very excited for all the changes happening in my life and I'm ready for my first job as a Web Developer!<br/>
+I'm currently living in the Capital Region of New York working as an Implementation Consultant! 
 
 <hr/>
 
